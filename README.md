@@ -6,6 +6,7 @@ The graphical interface its easy to use, when you start the program they shows y
 
 (Like this)
 
+![crack1](https://github.com/MR-Binaryum/B-Forcer/assets/133718570/a4e3e19c-feeb-4198-a30a-4d61e67d9a1a)
 
 
 
@@ -13,6 +14,7 @@ So when you press enter key after paste or writted the hash then starts the Brut
 
 And it presents the special part of this program  that its the stetic like a hollywood hacker movie :)
 
+![crack2](https://github.com/MR-Binaryum/B-Forcer/assets/133718570/9bac84e8-8fe4-42b5-b676-755f8e1a99ef)
 
 
 
