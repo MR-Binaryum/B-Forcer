@@ -6,13 +6,15 @@ The graphical interface its easy to use, when you start the program they shows y
 
 (Like this)
 
-![intro](https://user-images.githubusercontent.com/crack1.png)
+![crack1](https://github.com/MR-Binaryum/B-Forcer/assets/133718570/dd7a4fdc-faef-4305-92b8-ebd3b6cb90be)
+
 
 So when you press enter key after paste or writted the hash then starts the Brute force attack.
 
 And it presents the special part of this program  that its the stetic like a hollywood hacker movie :)
 
-![crack](https://user-images.githubusercontent.com/crack2.png)
+![crack2](https://github.com/MR-Binaryum/B-Forcer/assets/133718570/6cad47d5-30ec-477c-81fe-b785a4299f75)
+
 
 
 One last thing if you want to change the Brute Force diccionary or the algoritm to crack go to this lines...
