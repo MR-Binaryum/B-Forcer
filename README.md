@@ -52,4 +52,4 @@ git clone https://github.com/MR-Binaryum/B-Forcer.git
 
 cd B-Forcer
 
-sudo python3 .py
+sudo python3 B-Forcer.py
